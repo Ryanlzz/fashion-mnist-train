@@ -33,7 +33,7 @@
 #### 4.深度学习卷积网络测试
 > 运行fashion_mnist_cnn.py,可以改变超参数LR，EPOCH，BATCH_SIZE来调节准确率。
 
-### 5.其他工具
+### 其他工具
 - KNN.py 找到KNN中的最佳参数k
 - Visualization_module.py 可视化网络结构
 - fashion_mnist_load.py 机器学习分类器数据集准备
