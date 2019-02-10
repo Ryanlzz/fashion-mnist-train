@@ -9,7 +9,7 @@ root="fashion_mnist/"
 
 
 LR = 0.00001
-EPOCH = 1000
+EPOCH = 50
 BATCH_SIZE = 128
 
 # 读取数据
